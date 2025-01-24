@@ -68,7 +68,7 @@ https://localhost:5001/api/library
    - **Endpoint**: `/{id}`
    - **Description**: Retrieves a book by its ID.
    - **Response**: JSON object of the requested book or `404 Not Found` if the book does not exist.
-
+   - 
 ### 3. **Add a Book**
    - **Method**: `POST`
    - **Endpoint**: `/`
